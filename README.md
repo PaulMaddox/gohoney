@@ -9,7 +9,7 @@ gohoney: SSH Honeypot written in Go
  people attempt to run, along with the date and their IP.
 
  It will log all sessions to:
- /var/log/gohoney/YYYYMMDD-<ip>.log
+ /var/log/gohoney/gohoney-yyyymmdd.log
 
 # Build & Run
 
